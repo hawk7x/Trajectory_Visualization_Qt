@@ -32,8 +32,8 @@ port_number=20000
 
 ## Dependencies
 
-Qt Framework
-QCustomPlot
+- Qt Framework
+- QCustomPlot
 
 ## How to Run
 
