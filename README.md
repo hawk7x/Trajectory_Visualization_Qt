@@ -50,3 +50,7 @@ port_number=20000
 ### UDP Screenshot
 
 ![Screenshot with UDP connection](screenshot_udp.jpg)
+
+## Video Demo
+
+[![Trajectory visualization demonstration](vimeo_preview.jpg)](https://vimeo.com/1084013910/5852564ae5)
