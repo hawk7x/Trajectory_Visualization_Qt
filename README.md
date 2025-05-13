@@ -40,3 +40,13 @@ QCustomPlot
 1. Build the Qt project (.pro file).
 2. Run the executable.
 3. Use the provided Python scripts (tcp_sender.py, udp_sender.py) to send test data.
+
+## Screenshots
+
+### TCP Screenshot
+
+![Screenshot with TCP connection](screenshot_tcp.jpg)
+
+### UDP Screenshot
+
+![Screenshot with UDP connection](screenshot_udp.jpg)
